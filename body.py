@@ -48,7 +48,7 @@ def check_for_followers(api,accounts,followers):
 
 #initial adding of followers to the array
 
-accounts=["@Muzann_","@SnowbullC","@sam_jdc","@CryptoRusk0f","@TokenBrice","@dimahledba","@AdliTB",""]
+accounts=["@Muzann_","@SnowbullC","@sam_jdc","@CryptoRusk0f","@TokenBrice","@dimahledba","@AdliTB","@Ballzy_trading","@CryptoGaryy","@Thegarage_paris","@Theyozz_"]
 followers=[]
 for user in accounts:
     followers.append([])
